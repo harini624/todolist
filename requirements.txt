@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django==3.2.25
+psycopg2==2.9.9
+pytz==2026.3.post1
+sqlparse==0.4.4
+typing_extensions==4.7.1
