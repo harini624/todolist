@@ -26,16 +26,10 @@ SECRET_KEY = 'django-insecure-fr^y%vlf*q#(ogh4*+9o1r(q0un$g^%^!7_k9c^e_30cyih$sz
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-<<<<<<< Updated upstream
-ALLOWED_HOSTS = ["https://mytodolist-fp4h.onrender.com"]
-=======
 ALLOWED_HOSTS = ['127.0.0.1',
                   'localhost', 
                   'mytodolist-fp4h.onrender.com',
                  ]
->>>>>>> Stashed changes
-
 
 # Application definition
 
